@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <array name="indian_state">
+        <item>State1</item>
+        <item>State2</item>
+        <item>State3</item>
+        <item>State4</item>
+        <item>State5</item>
+        <item>State6</item>
+        <item>State7</item>
+        <item>State8</item>
+        <item>State9</item>
+        <item>State10</item>
+    </array>
+</resources>
